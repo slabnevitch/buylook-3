@@ -1,0 +1,19 @@
+.input-ok
+{
+    background: url(../img/icon-ok.png) no-repeat right center #e3ffe5;
+    border: 1px solid #96b796;
+    line-height: 19px;
+}
+
+.input-error
+{
+    background: url(../img/icon-fail.png) no-repeat right center #ffebef;
+    border: 1px solid red;
+    line-height: 19px;
+}
+
+.clear
+{
+	clear:both;
+}
+
